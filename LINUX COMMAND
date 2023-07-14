@@ -1,0 +1,16 @@
+
+
+LINUX COMMAND :-
+
+1. pwd - present working directory.
+2. whoami = Tells you your name of the user.
+3. Clear - clear the screen .
+
+Linux follow a tree like structure. 
+
+4. cd / :Change directory
+5. cd ~ : Tells you home directory.
+6. ls -l: ls is to give the list of all the directory.
+7. cd.. : give you the result of the parent directory
+8. cd - : to go to previous directory.
+9. cd. : current directory
